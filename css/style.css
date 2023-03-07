@@ -1,0 +1,118 @@
+
+
+
+/* dark back ground  */
+.DL-mood{
+    background: black;
+    color: white;
+
+}
+/* dark button effect  */
+.D-btn{
+    background-color: white;
+    color: black;
+}
+
+
+
+.DL-btn{
+    margin: auto;
+    width: 130px;
+    margin-top: 20px;
+}
+
+/* ************************ */
+
+.header-title{
+text-align: center;
+margin-top: 20px;
+}
+
+
+
+/* ************************ */
+/* add-task-btn */
+.add-task-btn{
+    width: 200px;
+margin: auto;}
+
+
+
+
+
+
+
+
+/* ********************* */
+/* task body */
+.task-body{
+    text-align: center;
+    background-color: gray;
+    
+}
+
+
+
+/* ********************************** */
+/* <!-- task submit form start --> */
+
+/* this for js >>> show div */
+.modal-display{
+    display: none;
+    text-align: center;
+}
+
+
+
+.parent-form ,.from-modal{
+    background-color: #444;
+    color: white;
+    position: absolute;
+    top: 45px;
+    left: 199px;
+}
+@media  (max-width:600px) {
+    .parent-form ,.from-modal{
+        background-color: #444;
+        color: white;
+        position: absolute;
+        top: 53px;
+        left: 30px;
+    }
+    
+    
+}
+
+/* ********************************** */
+/* show task area */
+
+
+.task-area{
+    text-align: center;
+    background-color: #444;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
